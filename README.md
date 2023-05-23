@@ -1,6 +1,6 @@
 # Ape Minter
 
-The Ape Minter is a command-line script that interacts with the Ethereum blockchain to mint NFTs.
+The Ape Minter is a command-line script that interacts with the Gnosis blockchain to mint Ape NFTs.
 
 ## Prerequisites
 
